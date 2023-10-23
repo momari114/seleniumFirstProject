@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-23T11:42:13 EET" name="Default suite" finished-at="2023-10-23T11:42:17 EET" duration-ms="4296">
+    <groups>
+    </groups>
+    <test started-at="2023-10-23T11:42:13 EET" name="Default test" finished-at="2023-10-23T11:42:17 EET" duration-ms="4296">
+      <class name="magentoLab.signUpProcess">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:magentoLab.signUpProcess@3d4d3fe7]" started-at="2023-10-23T11:42:13 EET" name="mySetup" finished-at="2023-10-23T11:42:16 EET" duration-ms="3743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myTest()[pri:0, instance:magentoLab.signUpProcess@3d4d3fe7]" started-at="2023-10-23T11:42:16 EET" name="myTest" finished-at="2023-10-23T11:42:17 EET" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method is-config="true" signature="myAfter()[pri:0, instance:magentoLab.signUpProcess@3d4d3fe7]" started-at="2023-10-23T11:42:17 EET" name="myAfter" finished-at="2023-10-23T11:42:17 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfter -->
+      </class> <!-- magentoLab.signUpProcess -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
